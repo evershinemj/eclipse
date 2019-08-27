@@ -1,9 +1,9 @@
 # create keyboard shortcuts for *collapsing and expanding folds*
 > open windows -> settings -> general -> key
 > input 'all' in the search textfield
-## collapse all
+- ## collapse all
 **ctrl -**
-## expand all
+- ## expand all
 **ctrl +**
 
 # usage tips
