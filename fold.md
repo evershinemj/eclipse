@@ -2,9 +2,9 @@
 > open windows -> settings -> general -> key
 > input 'all' in the search textfield
 - ## collapse all
-**ctrl -**
+    **ctrl -**
 - ## expand all
-**ctrl +**
+    **ctrl +**
 
 # usage tips
 hover the mouse over the `plus icon`, and folded source can be seen
