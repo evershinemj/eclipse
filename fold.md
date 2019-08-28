@@ -6,5 +6,8 @@
 - ## expand all
     **ctrl +**
 
+# expand current fold
+**shift+= or ctrl+d**
+
 # usage tips
 hover the mouse over the `plus icon`, and folded source can be seen
