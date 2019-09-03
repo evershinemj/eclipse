@@ -1,0 +1,66 @@
+C-X-C-J-C-P show java  perspective
+C-X-C-X-C-D show debug perspective
+C-X-C-J-C-B show java browsing perspective
+C-X-C-J-C-E show javaee perspective
+C-X-C-G-C-P show git perspective
+
+C-X-C-K word completion
+
+C-C-C-P preferences
+
+C-C-C-M-C-B go to matching bracket
+
+C-X-C-G-C-J generate javadoc
+
+C-X-2 toggle split editor (horizontal)
+C-X-3 toggle split editor (vertical)
+
+C-C-C-R refactor -> rename
+C-X-C-X-C-F refactor -> introduce factory
+C-X-C-X-C-P refactor -> introduce parameter
+
+C-U-C-D search declaration in project
+C-U-C-R search references in project
+C-U-C-A search all in project
+C-U-C-T search text in project
+
+C-C-C-X-C-C coverage
+C-X-C-X-C-K preferences -> general -> keys
+
+C-X-C-X-C-C extract class
+C-X-C-X-C-I extract interface
+C-X-C-X-C-L extract local variable
+C-X-C-X-C-M extract method
+C-X-C-X-C-_ extract constant 
+C-X-C-X-C-S extract super class
+
+C-C-C-M-C-S change method signature
+C-C-C-L-C-V convert local variable to field
+
+C-X-C-X-T open terminal
+
+C-C-C-X-C-S skip all breakpoints
+
+C-X-C-T-C-B toggle breadcrumb (in tool bar)
+
+C-C-C-W show whitespace characters (in tool bar)
+
+C-] open declaration
+
+C-X-C-X-C-W switch workspace
+
+C-T add task
+C-X-C-T-C-V show tasks view
+
+C-C-C-S-C-V show servers view
+
+C-# toggle comment
+
+C-( previous editor
+C-) next editor
+C-X-C-V next view
+
+C-Q quick access
+
+# C-X-C-T-C-V toggle vrapper
+C-Z toggle vrapper

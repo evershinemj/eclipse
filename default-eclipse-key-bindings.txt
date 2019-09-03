@@ -1,0 +1,13 @@
+C-M maximize active view or editor
+C-. (could be regarded as C->) next annotation (in tool bar)
+C-, (could be regarded as C-<) previous annotation (in tool bar)
+(an annotation in eclipse could be an error, a warning, a breakpoint, etc., which is basically a line mark)
+
+C-O quick outline (handy to find a field or method in the class)
+
+M-R find/replace
+
+M-H-M-M help -> eclipse marketplace
+
+C-Down scroll line down
+C-Up scroll line up
