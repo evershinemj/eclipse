@@ -6,6 +6,6 @@ do remember to switch to the `file search` tab unless other types of search are 
 # search current file via file search 
 when searching current file, instead of using 'ctrl-f', it's worthy of considering `file search`.
 ## advantages:
-- a dedicate view(tab) shows up
-- inside this view, up and down arrows can be used for easy navigating
+- a dedicated view(tab) shows up
+- inside this view, up and down arrows can be used for easy navigation
 - search results are highlighted
