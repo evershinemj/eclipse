@@ -4,3 +4,6 @@
 # more about history order
 > in history view, clicking each **table head** toggles a caret. hence,
 > each column may be sorted.
+
+# diff two chosen files in history view
+two arbitrarily chosen files can be diffed in history view

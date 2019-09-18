@@ -17,3 +17,4 @@ one major feature of eclipse diff is that it highlights current diff with blue, 
 
 # on clicking current modified diff
 on clicking current modified diff, the unmodified chunks turn white, making the modified chunks(darker gray parts) stand out more obviously
+
