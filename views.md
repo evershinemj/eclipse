@@ -7,3 +7,9 @@ views in eclipse can be moved around in a very flexible manner via **drag and dr
 - they can be moved to top/bottom/left/right of editors.
 - they can be move to other windows(not including editors), and exist as a new tab inside that window.
 - windows can also be moved around.
+
+## editors
+
+via **drag and drop**, the following can be achieved:
+- editor rearrangement
+- *vsplit*
